@@ -1,0 +1,6 @@
+{
+  "name": "Verbos Kinestésicos — 223 Verbos en Inglés",
+  "description": "Entrenador kinestésico interactivo para dominar los 223 verbos en inglés (154 irregulares y 69 regulares) mediante ritmo, voz, anclas físicas y fichas imprimibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
